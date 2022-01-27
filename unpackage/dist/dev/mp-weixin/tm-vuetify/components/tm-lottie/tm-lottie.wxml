@@ -1,0 +1,1 @@
+<view class="tm-lottie flex-center"><canvas style="{{'width:'+(w_w+'px')+';'+('height:'+(h_h+'px')+';')}}" id="cid" canvas-id="cid"></canvas></view>

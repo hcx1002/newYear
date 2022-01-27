@@ -1,0 +1,9 @@
+{
+  "componentGenerics": {
+    "scoped-slots-default": true
+  },
+  "component": true,
+  "usingComponents": {
+    "tm-badges": "/tm-vuetify/components/tm-badges/tm-badges"
+  }
+}

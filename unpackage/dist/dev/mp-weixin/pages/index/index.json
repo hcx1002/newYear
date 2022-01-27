@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "tm-lottie": "/tm-vuetify/components/tm-lottie/tm-lottie",
+    "tm-avatar": "/tm-vuetify/components/tm-avatar/tm-avatar",
+    "tm-sheet": "/tm-vuetify/components/tm-sheet/tm-sheet"
+  }
+}
